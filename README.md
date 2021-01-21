@@ -1,6 +1,6 @@
 # Testing
 
-- [ ] Function
+- [x] Function
 - [ ] Module
 - [ ] Coverage
 
